@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+Hi, my name is Artem
 :man_technologist: About Me :
 
 - :man_student: 4th year student of the Moscow Polytechnic University
@@ -13,7 +14,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src=https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg title="Pycharm" width="40" height="40"/>&nbsp;
@@ -28,6 +29,8 @@
 </div>
 
 ---
+### ⏳ Competitons:
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7aaassss&theme=dark&background=000000)](https://git.io/streak-stats)
