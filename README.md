@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### :man_technologist: About Me :
+:man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications and etc.
 
 - :seedling: Exploring Technical Content Writing.
