@@ -29,7 +29,11 @@ Hi, my name is Artem
 
 ---
 ### ⏳ Competitons:
-
+<div>
+  <li>
+    5/30 <a href="">IT Purple Hack </a>"Develop a LLM-based system answering user questions in natural language." -> 
+  </li>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7aaassss&theme=dark&background=000000)](https://git.io/streak-stats)
