@@ -8,7 +8,6 @@ Hi, my name is Artem
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications and etc.
 
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I play basket, listen musuc and solve problems on LeetCode.
 
