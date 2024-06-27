@@ -34,7 +34,7 @@ Hi, my name is Artem
     5/30 <a href="https://geekbattle.online/events/it-purple-hack">IT Purple Hack </a>"Develop a LLM-based system answering user questions in natural language." --> <a href="https://github.com/7aaassss/it-purple"><em>Solution</em></a> 
   </li>
   <li>
-    Finalist of <a href="https://atomichack.ru/"> Atomic Hack 2.0 </a>"Develop a system for detecting welding seam defects using machine learning models." --> <a href=""><em>Solution</em></a>
+    Finalist of <a href="https://atomichack.ru/"> Atomic Hack 2.0 </a>"Develop a system for detecting welding seam defects using machine learning models." --> <a href="https://github.com/7aaassss/flask-ml"><em>Solution</em></a>
   </li>
 </div>
 
