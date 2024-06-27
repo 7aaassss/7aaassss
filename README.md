@@ -31,7 +31,7 @@ Hi, my name is Artem
 ### ⏳ Competitons:
 <div>
   <li>
-    5/30 <a href="https://geekbattle.online/events/it-purple-hack">IT Purple Hack </a>"Develop a LLM-based system answering user questions in natural language." --> <em href="https://github.com/7aaassss/it-purple">Solution</em> 
+    5/30 <a href="https://geekbattle.online/events/it-purple-hack">IT Purple Hack </a>"Develop a LLM-based system answering user questions in natural language." --> <a href="https://github.com/7aaassss/it-purple"><em>Solution</em></a> 
   </li>
 </div>
 
