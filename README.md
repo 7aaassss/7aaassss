@@ -5,9 +5,6 @@ Hi, my name is Artem
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications and etc.
 
-
-- :zap: In my free time, I play basket, listen musuc and solve problems on LeetCode.
-
 ---
 
 ### :hammer_and_wrench: Stack :
@@ -35,7 +32,3 @@ Hi, my name is Artem
   </li>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7aaassss&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7aaassss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
