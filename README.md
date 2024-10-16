@@ -1,9 +1,9 @@
 Hi, my name is Artem
-:man_technologist: About Me :
+About Me :
 
 - :man_student: 4th year student of the Moscow Polytech University
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications and etc.
+- :telescope: I’m looking for a job as a Software Engineer and contributing to backend for building web applications and etc.
 
 ---
 
