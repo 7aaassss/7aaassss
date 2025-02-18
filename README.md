@@ -3,15 +3,11 @@ About Me :
 
 - :man_student: 4th year student of the Moscow Polytech University
 
-- :telescope: I’m looking for a job as a Software Engineer and contributing to backend for building web applications and etc.
-
 ---
 
 ### :hammer_and_wrench: Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src=https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg title="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
