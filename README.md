@@ -1,7 +1,9 @@
 Hi, my name is Artem
 About Me :
 
-- :man_student: 4th year student of the Moscow Polytech University
+- 👨‍🎓: 4th year student of the Moscow Polytech University
+- 👨‍💼:Data Engineer and Backend Developer
+- 🖨️:Field of ​​interest: SQL, Services
 
 ---
 
